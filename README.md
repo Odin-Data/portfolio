@@ -2,7 +2,18 @@
 
 Simple static page for portfolio.
 
-### CONTACT SECTION
+## License
+
+This project is licensed under the Creative Commons Attribution 3.0 License (CCA 3.0). You can view the full license in the [LICENSE.md](LICENSE.md) file.
+
+## Attributions
+
+"Miniport" by [HTML5 UP](https://html5up.net) | [@ajlkn](https://twitter.com/ajlkn)
+
+- **Author**: AJ
+- **Twitter**: [@ajlkn](https://twitter.com/ajlkn)
+
+## Contact section
 
 The contact section of the website incorporates a form that utilizes the free service of Formspree to avoid for configuring any backend. To achieve this, simply create an account on Formspree and set up a form. Formspree will generate a specific endpoint for the form,
 which should be substituted for the action attribute within the <form> element in the corresponding HTML file:
