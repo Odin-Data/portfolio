@@ -1,6 +1,6 @@
 # PORTFOLIO WITH STATIC PAGE
 
-Simple static page for portfolio.
+A super simple responsive portfolio template. It's only a single page.
 
 ## License
 
